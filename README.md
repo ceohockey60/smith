@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/atlassian/smith.svg?branch=master)](https://travis-ci.org/atlassian/smith)
 [![Go Report Card](https://goreportcard.com/badge/github.com/atlassian/smith)](https://goreportcard.com/report/github.com/atlassian/smith)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fceohockey60%2Fsmith.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fceohockey60%2Fsmith?ref=badge_shield)
 
 **Smith** is a Kubernetes workflow engine / resource manager.
 
@@ -230,3 +231,6 @@ those contributing as an individual.
 ## License
 
 Copyright (c) 2016-2019 Atlassian and others. Apache 2.0 licensed, see LICENSE file.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fceohockey60%2Fsmith.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fceohockey60%2Fsmith?ref=badge_large)
